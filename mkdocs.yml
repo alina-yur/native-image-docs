@@ -31,8 +31,8 @@ extra:
 plugins:
   - social
   - search
-repo_url: https://github.com/alina-yur/graalvm-resources
-repo_name: alina-yur/graalvm-resources
+repo_url: https://github.com/alina-yur/native-image-docs
+repo_name: alina-yur/native-image-docs
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
