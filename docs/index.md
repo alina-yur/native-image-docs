@@ -1,6 +1,6 @@
 # GraalVM Native Image
 
-# Collect Metadata with the Tracing Agent
+## Collect Metadata with the Tracing Agent
 
 The Native Image tool relies on the static analysis of an application's reachable code at runtime. 
 However, the analysis cannot always completely predict all usages of the Java Native Interface (JNI), Java Reflection, Dynamic Proxy objects, or class path resources. 
